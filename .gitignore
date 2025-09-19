@@ -27,3 +27,4 @@
 mvnw
 mvnw.*
 .DS_Store
+.metadata/
